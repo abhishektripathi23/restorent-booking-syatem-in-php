@@ -1,0 +1,68 @@
+.main{
+    
+    width: 100%;
+    
+   
+    
+    
+}
+body{
+    background: linear-gradient(to right, rgb(223, 223, 113),rgb(75, 75, 112));
+}
+.cont{
+    width: 40%;
+    background-color: rgb(159, 110, 110);
+    text-shadow: 3ch;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 3%;
+}
+.user{
+   
+    color: wheat;
+    font-size: 1.3em;
+}
+.password{
+   
+    color: wheat;
+    font-size: 1.3em;
+}
+#us{
+    padding: 2%;
+    background-color: rgb(224, 221, 221);
+    color: rgb(30, 26, 26);
+    border-radius: 4px;
+    font-size: 0.8em;
+    width: 60%;
+}
+#pss{
+    padding: 2%;
+    border-radius: 4px;
+    background-color: rgb(224, 221, 221);
+    color: rgb(30, 26, 26);
+    width: 60%;
+    font-size: 0.8em;
+}
+#btn{
+    padding: 2%;
+    margin: 2%;
+    border-radius: 15px;
+    width: 60%;
+    font-size: 1em;
+    color: rgb(249, 113, 86);
+}
+#btn:hover{
+    background-color: rgb(252, 207, 152);
+    opacity: 0.7;
+}
+.reg-btn{
+    color: rgb(209, 217, 224);
+    margin-bottom: 3px;
+}
+#re{
+    color: rgb(227, 172, 77);
+}
+.re-fo{
+    display: flex;
+    justify-content: space-around;
+}

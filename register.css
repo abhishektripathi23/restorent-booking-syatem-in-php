@@ -1,0 +1,42 @@
+form{
+    width: 100%;
+    display: flex;
+   text-align: center;
+    justify-content: center;
+}
+body{
+    background: linear-gradient(to right ,rgb(221, 216, 63),rgb(58, 123, 214));
+}
+.container{
+    display: grid;
+    justify-content: space-evenly;
+    border: black solid 2px;
+    margin-left:5%;
+    margin-top: 5%;
+    width: 50%;
+    background: linear-gradient(to right, rgb(254, 254, 118),rgb(86, 86, 248));
+   
+   
+}
+
+.name{
+padding: 3%;
+}
+
+.mob{
+padding: 3%;
+}
+
+.email{
+padding: 3%;
+}
+.pass{
+padding: 3%;
+}
+.btn{
+margin: 2%;
+}
+#in{
+    padding: 4%;
+    
+}
